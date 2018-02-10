@@ -1,0 +1,159 @@
+	<!-- Section: Program -->
+    <section id="program" class="home-section text-center bg-gray">
+		
+		<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Program</h2>
+				<!--	<h5> <a href="img/brain_networks_short_program.pdf"> (PDF: SHEDULE WITH ABSTRACTS) </a> <br> <br> -->
+					<i class="fa fa-2x fa-angle-down"></i>
+				
+					
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+			
+			
+			<div class="col-lg-8 col-lg-offset-2">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-desc">
+						<h3>Registration: 08:00 - 08:30</h3>
+					</div>
+                </div>
+				</div>
+            </div>
+  
+  			<div class="col-sm-6 col-md-6">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/brain.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h3>Morning</h3>
+						<h5>Session I: From Neurons to Anatomy</h5>
+
+						<p> <b>08:30</b> Introduction and Opening Remarks</p>
+						
+						<p> <b>08:35</b> Invited Talk (<a href="http://www.indiana.edu/~iubphys/faculty/jmbeggs.shtml"   target="_blank">John Beggs</a>)</p>
+
+						<p> <b>08:55</b> Emergence of slow-switching assemblies in structured neuronal networks (Michael Schaub)</p>
+
+						<p> <b>09:10</b> From Connectome to Behavior: An Integrated Neuromechanical Model of Forward Locomotion in C. elegans (Eduardo Izquierdo)</p>
+
+						<p> <b>09:25</b> Model of brain activation predicts the neural collective influence map of the brain (Flaviano Morone)</p>
+						
+						<p> <b>09:40</b> Invited Talk (<a href="https://www.bu.edu/sargent/profile/claus-christian-hilgetag-phd/"   target="_blank">Claus Hilgetag</a>)</p>
+						
+						<p> <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /> Coffee 10:00 - 10:30 <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /></p>
+						
+						<h5>Session II: Computational Approaches</h5>
+						
+						<p> <b>10:30</b> Opening Remarks</p>
+
+						<p> <b>10:35</b> Data/tool Showcase (<a href="https://www.alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/nicholas-cain/"   target="_blank">Nicholas Cain</a>)</p>
+						
+						<p> <b>11:35</b> Invited Talk (<a href="http://users.ugent.be/~dmarinaz/"   target="_blank">Daniele Marinazzo</a>)</p>
+						
+						<p> <b>11:55</b> Invited Talk (<a href="http://www.openworm.org"   target="_blank">Stephen Larson</a>)</p>
+						
+						<p> <b>12:15</b> NeuroCave: A Web-based Immersive Analytics Platform for Visualizing the Connectome (Alex Leow)</p>
+
+						<p> <img src="img/icons/lunch-32px.png" alt="" /> Lunch 12:30 - 14:00 <img src="img/icons/lunch-32px.png" alt="" /></p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-6 col-md-6">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/brain.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h3>Afternoon</h3>
+						<h5>Session III: Function and Dysfunction in the Human Brain</h5>
+
+						<p> <b>14:00</b> Opening Remarks</p>
+
+						<p> <b>14:05</b> Invited Talk (<a href="https://scholar.google.com/citations?user=qUEBZWQAAAAJ&hl=es"   target="_blank">Willem de Haan</a>)</p>
+						
+						<p> <b>14:25</b> Electrical propagation on Cortical Connectome and Communicability (Masanori Shimono)</p>
+						
+						<p> <b>14:40</b> Global homological conservation versus local reorganization of the psychedelic brain (Esther Ibáñez)</p>
+						
+						<p> <b>14:55</b> Joint exploration and mining of memory-relevant brain anatomic and connectomic patterns via a three-way association model (Jingwen Yan)</p>
+						
+						<p> <b>15:10</b> Invited Talk (<a href="http://www.danisbassett.com"   target="_blank">Danielle Bassett</a>)</p>
+						
+						<p> <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /> Coffee 15:30 - 16:00 <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /></p>
+						
+						<h5>Session IV: Genetics</h5>
+
+						<p> <b>16:00</b> Opening Remarks</p>
+
+						<p> <b>16:05</b> Invited Talk (<a href="http://keck.usc.edu/faculty/neda-jahanshad/"   target="_blank">Neda Jahanshad</a>)</p>
+						
+						<p> <b>16:25</b> Invited Talk (<a href="http://richiardi.net"   target="_blank">Jonas Richiardi</a>)</p>
+						
+						<p> <b>16:45</b> Topological co-expression networks capture spatial and gene-gene interactions (Alice Patania)</p>
+						
+						<h5>Session V: The Future of Network Neuroscience</h5>
+						
+						<p> <b>17:00</b> Network Neuroscience Journal (Olaf Sporns)</p>
+						
+						<p> <b>17:05</b> Panel Discussion</p>
+
+						<h5>Session VI: Posters</h5>
+
+						<p> <b>18:00</b> Contributed Posters</p>
+
+						<p> <b>19:30</b> End</p>
+
+
+					</div>
+                </div>
+				</div>
+            </div>
+			
+            </div>
+        </div>		
+		</div>
+		
+		<br>
+		<br>
+				<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Poster List</h2> 
+
+					<h5> <a href="img/poster_list.pdf"> (PDF: POSTER LIST) </a> <br> <br>
+
+					<!-- <h5> <a href="img/poster_list.pdf"> (pdf) </a></h5> -->
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+
+		
+	</section>
+	<!-- /Section: program -->
