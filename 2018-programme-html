@@ -1,0 +1,156 @@
+	<!-- Section: Program -->
+    <section id="program" class="home-section text-center bg-gray">
+		
+		<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Program</h2>
+				<!--	<h5> <a href="img/brain_networks_short_program.pdf"> (PDF: SHEDULE WITH ABSTRACTS) </a> <br> <br> -->
+					<i class="fa fa-2x fa-angle-down"></i>
+				
+					
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+			
+			
+			<div class="col-lg-8 col-lg-offset-2">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-desc">
+						<h3>Registration: 08:00 - 08:30</h3>
+					</div>
+                </div>
+				</div>
+            </div>
+  
+  			<div class="col-sm-6 col-md-6">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/brain.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h3>Morning</h3>
+						<h5>Session I: Micro-, meso-, and macroscales </h5>
+
+						<p> <b>09:00</b> Introduction and Opening Remarks</p>
+						
+						<p> <b>09:10</b> Rodent primate differences in cortical networks (<a href="hhttps://www.labex-cortex.com/en/users/henry-kennedy"   target="_blank">H. Kennedy</a>)</p>
+
+						<p> <b>09:35</b> Living Neural Networks: from Cells to Systems (<a href="https://qutublab.org/" target="_blank">A. Qutub</a>) </p>
+
+						<p> <b>10:00</b> Comparison of MRI tractography and anatomical tract-tracing of cortico-cortical connectivity in the ferret (C. Delettre) </p>
+
+						<p> <b>10:15</b> Functional connectivity: can we find a common ground? (A. Alinska)</p>
+						
+						<p> <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /> Coffee 10:30 - 11:00 <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /></p>
+						
+						<h5>Session II: Computational Approaches</h5>
+
+						<p> <b>11:00</b> Opening Remarks</p>
+
+						<p> <b>11:10</b> TBA (<a href="http://www.maths.qmul.ac.uk/~latora/"   target="_blank">V. Latora</a>)</p>
+						
+						<p> <b>11:35</b> Dynamic information routing in networks of oscillating neuronal populations (<a href="http://www.demian-battaglia.net/Demian_Battaglias_homepage/Home.html"   target="_blank">D. Battaglia</a>)</p>
+						
+						<p> <b>12:00</b> Towards a mathematical theory of communication in the human connectome (J. Go&ntildei) </p>
+						
+						<p> <b>12:15</b> The effect of Network Structure in Neural Computing (P. Vilimelis-Aceituno) </p>
+
+						<p> <img src="img/icons/lunch-32px.png" alt="" /> Lunch 12:30 - 14:00 <img src="img/icons/lunch-32px.png" alt="" /></p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-6 col-md-6">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/brain.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h3>Afternoon</h3>
+						<h5>Session III: Function and Dysfunction in the Human Brain</h5>
+
+						<p> <b>14:00</b> Opening Remarks</p>
+
+						<p> <b>14:10</b> TBA (<a href="http://www.neuroscience.cam.ac.uk/directory/profile.php?etb23"   target="_blank">E. Bullmore</a>)</p>
+
+						<p> <b>14:35</b> Zooming in, zooming out: linking microscopic brain properties to large-scale network topology(<a href="https://lindadouw.com/"   target="_blank">L. Douw</a>)</p>
+						
+						<p> <b>15:00</b> Multimodal core-periphery structure as a possible biomarker for Alzheimer’s disease (J. Guillon)</p>
+						
+						<p> <b>15:15</b> Glioma occurs more often in non-hub brain regions (T. Numan) </p>
+											
+						
+						<p> <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /> Coffee 15:30 - 16:00 <img src="img/icons/emoticon-coffee-32px-image-picture.png" alt="" /></p>
+						
+						<h5>Session IV: Genetics</h5>
+
+						<p> <b>16:00</b> Opening Remarks</p>
+
+						<p> <b>16:10</b> Transient dynamic brain networks in MEG and fMRI (<a href="https://www.ohba.ox.ac.uk/team/mark-woolrich"   target="_blank">M. Woolrich</a>)</p>
+						
+						<p> <b>16:35</b> Control principles in the Caenorhabditis elegans nervous system (<a href="https://cos.northeastern.edu/faculty/emma-towlson/"   target="_blank">E. Towlson</a>)</p>
+						
+						<p> <b>17:00</b> Temporal metrics for exponential random graph models of dynamic brain networks (C. Obando)</p>
+						
+						<h5>Session V: Closing Session</h5>
+						
+						<p> <b>17:15</b> Lightning talks</p>
+						
+						<p> <b>17:50</b> Concluding remarks</p>
+
+						<h5>Session VI: Posters</h5>
+
+						<p> <b>18:00</b> Contributed Posters</p>
+
+						<p> <b>18:45</b> End</p>
+
+
+					</div>
+                </div>
+				</div>
+            </div>
+			
+            </div>
+        </div>		
+		</div>
+		
+		<br>
+		<br>
+				<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Poster List</h2> 
+
+					<h5> <a href="img/poster_list.pdf"> (PDF: POSTER LIST) </a> <br> <br>
+
+					<!-- <h5> <a href="img/poster_list.pdf"> (pdf) </a></h5> -->
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+
+		
+	</section>
+	<!-- /Section: program -->
